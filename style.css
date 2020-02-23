@@ -1,0 +1,68 @@
+body {
+	background-image: linear-gradient(#4b92db, #a5acaf, #4b92db);
+	background-attachment: fixed;
+	justify-content: center;
+}
+
+#navMask {
+	height: 2.5em;
+	width: 3em;
+}
+
+#satNav {
+	background-color: #002244;
+	justify-content: center;
+}
+
+#navMaskText {
+	color: #a5acaf;
+	font-size: 1.5em;
+	font-weight: bold;
+	font-family: monospace, monospace;
+	transform: scaleY(2)
+}
+
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#dropText {
+	color: #a5acaf;
+}
+
+.col-md-6 {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.table {
+	text-align: center;
+}
+
+footer {
+	background-color: #002244;
+	text-align: center;
+	color: #a5acaf;
+}
+
+.row {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.media {
+	padding: 10px;
+	font-size: 1.25em;
+	color: #002244;
+}
+
+.googleAttribute {
+	font-size: .95em;
+}
+
+#newsHeader {
+	text-align: center;
+	background-color: #a5acaf;
+	color: #002244;
+}
